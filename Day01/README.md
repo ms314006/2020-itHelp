@@ -1,4 +1,4 @@
-<h1 align="center">Day01 別再放一堆 CDN ，把 Webpack 裝起來就對了</h1>
+<h1 align="center">別再放一堆 CDN ，把 Webpack 裝起來就對了</h1>
 
 ## Quick Start
 
