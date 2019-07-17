@@ -1,4 +1,4 @@
-<h1 align="center">JSX 瀏覽器看不懂？要翻譯就靠 Babel</h1>
+<h1 align="center">SCSS 加上 Webpack 混搭款，讓你寫 CSS 上天堂</h1>
 
 ## Quick Start
 
