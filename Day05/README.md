@@ -1,4 +1,4 @@
-<h1 align="center">SCSS 加上 Webpack 混搭款，讓你寫 CSS 上天堂</h1>
+<h1 align="center">F5 按鍵守護者，讓網頁自動刷新的 Webpack-dev-server</h1>
 
 ## Quick Start
 

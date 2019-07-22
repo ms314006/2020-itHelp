@@ -51,4 +51,8 @@ module.exports = {
       filename: './index.css',
     }),
   ],
+  devServer: {
+    contentBase: './dist',
+    port: 8080,
+  },
 };
