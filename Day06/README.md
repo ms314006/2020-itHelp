@@ -1,4 +1,4 @@
-<h1 align="center">F5 按鍵守護者，讓網頁自動刷新的 Webpack-dev-server</h1>
+<h1 align="center">一次說完 JSX 基本用法</h1>
 
 ## Quick Start
 
