@@ -1,5 +1,5 @@
 import React, {
-  useState, createContext, useContext
+  useState, createContext, useContext,
 } from 'react';
 import ReactDom from 'react-dom';
 import PropTypes from 'prop-types';
@@ -57,19 +57,3 @@ ReactDom.render(
   <Main />,
   document.getElementById('root'),
 );
-
-TodoListPage.propTypes = {
-  todoList: PropTypes.shape([]),
-};
-
-TodoListPage.defaultProps = {
-  todoList: [],
-};
-
-CurrentTask.propTypes = {
-  todoList: PropTypes.shape([]),
-};
-
-CurrentTask.defaultProps = {
-  todoList: [],
-};
