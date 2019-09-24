@@ -1,4 +1,4 @@
-<h1 align="center">不知道對不對，就把邏輯通通測起來 feat. Jest</h1>
+<h1 align="center">Component 的測試方式不私藏</h1>
 
 ## Quick Start
 
@@ -6,6 +6,8 @@
 2. Run the cmd: `npm install` or `npm i`.
 3. Run the cmd: `npm run start` to run the project.
 4. Run the cmd: `npm run build` to build the project.
+5. Run the cmd: `npm run test` to execute test case.
+6. Run the cmd: `npm run test-cov` to generate a the test coverage report.
 
 ## 快速開始
 
@@ -13,3 +15,5 @@
 2. 在 cmd 中輸入指令 `npm install` 或 `npm i`。
 3. 在 cmd 中輸入指令 `npm run start` 運行網頁。
 4. 在 cmd 中輸入指令 `npm run build` 進行編譯。
+5. 在 cmd 中輸入指令 `npm run test` 執行測試案例。
+6. 在 cmd 中輸入指令 `npm run test-cov` 執行測試案例，並產生覆蓋率報告。
