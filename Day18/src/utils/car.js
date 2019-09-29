@@ -1,11 +1,9 @@
 import uuid from 'uuid/v1';
 
-// 假設購物車內容存在於 Cookie 中
-const carContent = [];
-
 const car = {
+  carContent: [],
 
-  getCurrentCar: () => carContent,
+  getCurrentCar: () => car.carContent,
 
   addProdToCar: (name, count) => {
     const workCar = [...car.getCurrentCar()];
