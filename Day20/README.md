@@ -1,4 +1,4 @@
-<h1 align="center">Component 被 Redux 罩著怎麼測試？</h1>
+<h1 align="center">從測試角度操作 Redux-Saga 和 Reducer</h1>
 
 ## Quick Start
 
