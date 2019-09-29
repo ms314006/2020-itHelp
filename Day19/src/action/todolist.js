@@ -31,7 +31,7 @@ function* fetchData() {
   yield put(fetchDataSuccess(data));
 }
 
-export function* mySaga() {
+function* mySaga() {
   yield takeEvery(FETCH_DATA_BEGIN, fetchData);
 }
 
