@@ -1,4 +1,4 @@
-<h1 align="center">不知道對不對，就把邏輯通通測起來 feat. Jest</h1>
+<h1 align="center">用 Mock 打造國家機器，驗證函式執行 feat. jest</h1>
 
 ## Quick Start
 
